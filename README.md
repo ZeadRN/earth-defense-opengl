@@ -1,8 +1,8 @@
 # Earth Defense - Bullet Frenzy
 
-A Python/PyOpenGL space-defense game originally built by two teammates for CSE423: Computer Graphics. Fly a spaceship, destroy incoming asteroids, and protect Earth.
+A Python/PyOpenGL space-defense game originally built by Zead Raihan and Sumaiya Islam Samia for CSE423: Computer Graphics. Fly a spaceship, destroy incoming asteroids, and protect Earth.
 
-This is a repaired portfolio revision. The original submission is preserved unchanged in `original/Lab-03(Final).py`. The original starter template and permitted-function list are unavailable, so compliance of this revision with those restrictions has not been verified. Add both contributors' names and actual contributions before publishing.
+This repository contains a portfolio-ready revision of the original CSE423 submission. The original submitted version is preserved unchanged in original/Lab-03(Final).py for reference and academic transparency. The original starter template and permitted-function list are unavailable, so compliance of this revision with those restrictions has not been verified. Add both contributors' names and actual contributions before publishing.
 
 ## Run on this Windows computer
 
@@ -10,7 +10,7 @@ This is a repaired portfolio revision. The original submission is preserved unch
 2. Double-click **setup_and_run.bat**.
 3. Click the game window to give it keyboard focus.
 
-The project environment has already been prepared in this local folder. The launcher will use it. On first setup elsewhere, the launcher creates `.venv` and downloads PyOpenGL; internet access is needed for that step only. It uses installed Python, or the Codex bundled Python if available.
+The project environment has already been prepared in this local folder. The launcher will use it. On first setup elsewhere, the launcher creates `.venv` and downloads PyOpenGL; internet access is needed for that step only. It uses installed Python, or The launcher will use the installed Python environment. On first setup, it creates `.venv` and installs the required dependencies.
 
 If using the ZIP, choose **Extract All** first. Do not run the launcher from inside the ZIP.
 
@@ -135,6 +135,4 @@ These checks do not replace a complete manual playthrough or verify every graphi
 
 **Dependency download fails:** Check internet access and retry; keep the exact error message if it still fails.
 
-## GitHub preparation
 
-Add both teammates' names and contribution details, then record a gameplay demo. Keep `.venv` out of Git (already covered by `.gitignore`). Document course template attribution. Choose any license with both contributors and with the starter-code terms in mind; this package does not assign a license automatically.
