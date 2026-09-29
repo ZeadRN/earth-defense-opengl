@@ -4,6 +4,8 @@ A Python/PyOpenGL space-defense game originally built by Zead Raihan and Sumaiya
 
 This repository contains a portfolio-ready revision of the original CSE423 submission. The original submitted version is preserved unchanged in original/Lab-03(Final).py for reference and academic transparency. The original starter template and permitted-function list are unavailable, so compliance of this revision with those restrictions has not been verified. Add both contributors' names and actual contributions before publishing.
 
+![Earth Defense gameplay](screenshots/earth-defense.png)
+
 ## Run on this Windows computer
 
 1. Open this folder in File Explorer.
